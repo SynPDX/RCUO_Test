@@ -3,6 +3,19 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore Directories
+Backups/
+Config/
+docs/
+Logs/
+Saves/
+SpawnsOld/
+UOINSTALL/
+Scripts/Customs/Sensative/
+Emails.xml
+Scripts/Output/
+Scripts/Output/
+
 # User-specific files
 *.suo
 *.user
